@@ -6,9 +6,9 @@ _Cracking the code of Nature_
 
 **Professors**:
 - Claudio J. Struchiner
-- Flavio Coelho
-- Guilherme Goedert
-- Luiz Max Carvalho
+- Flavio C. Coelho
+- Guilherme T. Goedert
+- Luiz M. Carvalho
 - Paulo V. Amorim
 - Soledad Aronna
 
