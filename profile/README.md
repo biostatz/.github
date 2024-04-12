@@ -13,3 +13,7 @@ _Cracking the code of Nature_
 - Soledad Aronna
 
 **Students**:
+
+| Student  | Level | Period    | Project                   | Supervisor(s) | 
+|----------|-----------|---------------------------|---------------------------|---------------------------|
+| [Name]() | MSc | 202X-202Y | [Title]()| Prof. X | 
